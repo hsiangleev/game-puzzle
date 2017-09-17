@@ -1,5 +1,5 @@
 # 拼图
-### [链接地址](https://github.com/hsiangleev/game-puzzle/index.html)
+### [链接地址]( https://hsiangleev.github.io/game-puzzle/index.html)
 * 页面布局:
   * bg: 背景提示图，使用半透明效果，移动图片后显示，层级最低，z-index:-1;
   * cvs: 当前画布，层级默认0；
